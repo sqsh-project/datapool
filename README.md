@@ -1,4 +1,4 @@
-# Sqsh Testdata Generator
+# datapool
 
 A tool to generate synthetic floating point datasets.
 Currently the only datasets with a [gaussian/normal](https://en.wikipedia.org/wiki/Normal_distribution) distribution are supported.
